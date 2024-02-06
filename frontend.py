@@ -6,7 +6,6 @@ def execute_action():
     input_text1 = entry1.get()
     toggle_state = toggle_var.get()
     
-    # Your execution logic here
     result = f"Executing with input1: {input_text1}, Toggle state: {'ON' if toggle_state else 'OFF'}"
     
     messagebox.showinfo("Execution Result", result)
