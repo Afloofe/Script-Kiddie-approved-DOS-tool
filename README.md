@@ -1,1 +1,1 @@
-Run frontend.py first
+This is a simple automatic Portscanner/DOS tool. It will scan common ports, then, if any are open attempt to DOS all of them. Run frontend.exe or ./frontend to use. You can use either a regular TCP scan, or a stealtheir SYN scan.  
